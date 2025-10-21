@@ -1,0 +1,6 @@
+/home/osboxes/Desktop/proyecto-abp-j6/src/pro/plantilla_fv/build/CMakeFiles/rebuild_cache.dir
+/home/osboxes/Desktop/proyecto-abp-j6/src/pro/plantilla_fv/build/CMakeFiles/edit_cache.dir
+/home/osboxes/Desktop/proyecto-abp-j6/src/pro/plantilla_fv/build/CMakeFiles/MiJuego.dir
+/home/osboxes/Desktop/proyecto-abp-j6/src/pro/plantilla_fv/build/CMakeFiles/libModulos.dir
+/home/osboxes/Desktop/proyecto-abp-j6/src/pro/plantilla_fv/build/ej_modulos/CMakeFiles/rebuild_cache.dir
+/home/osboxes/Desktop/proyecto-abp-j6/src/pro/plantilla_fv/build/ej_modulos/CMakeFiles/edit_cache.dir

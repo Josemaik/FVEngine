@@ -1,0 +1,1 @@
+/bin/c++   -std=c++1y -Wall -Wextra -g  -rdynamic CMakeFiles/MiJuego.dir/main.cpp.o  -o MiJuego  liblibModulos.a -lsfml-system -lsfml-window -lsfml-graphics -lsfml-network -lsfml-audio 
