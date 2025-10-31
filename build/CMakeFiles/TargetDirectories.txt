@@ -1,6 +1,0 @@
-/home/osboxes/Desktop/proyecto-abp-j6/build/CMakeFiles/rebuild_cache.dir
-/home/osboxes/Desktop/proyecto-abp-j6/build/CMakeFiles/edit_cache.dir
-/home/osboxes/Desktop/proyecto-abp-j6/build/CMakeFiles/MiJuego.dir
-/home/osboxes/Desktop/proyecto-abp-j6/build/CMakeFiles/libModulos.dir
-/home/osboxes/Desktop/proyecto-abp-j6/build/ej_modulos/CMakeFiles/rebuild_cache.dir
-/home/osboxes/Desktop/proyecto-abp-j6/build/ej_modulos/CMakeFiles/edit_cache.dir
